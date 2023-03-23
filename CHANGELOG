@@ -1,0 +1,3 @@
+# Changelog
+- Enabled compiling with c++
+- Changed renamed minihdlc.c to minihdlc.cpp
